@@ -13,6 +13,9 @@ This repository contains a versatile Bash script that automates the installation
 2. **Download and Install**: The script downloads the relevant Go package, handles extraction/installation, and sets up the environment as needed.
 3. **Error Handling**: Includes robust error handling to manage download failures, incorrect file formats, and unsupported operating systems.
 
+## Note:
+This script has only been tested on Ubuntu. If you encounter any difficulties running it on other platforms, please feel free to contact me.
+
 ## Usage:
 #### Execute the Script Directly
 
